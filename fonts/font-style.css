@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'Signifier';
+    src: url('Signifier-Thin.woff2') format('woff2'),
+        url('Signifier-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Signifier';
+    src: url('Signifier-Black.woff2') format('woff2'),
+        url('Signifier-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Signifier';
+    src: url('Signifier-Regular.woff2') format('woff2'),
+        url('Signifier-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Signifier';
+    src: url('Signifier-Medium.woff2') format('woff2'),
+        url('Signifier-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Signifier';
+    src: url('Signifier-Bold.woff2') format('woff2'),
+        url('Signifier-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Signifier';
+    src: url('Signifier-Extralight.woff2') format('woff2'),
+        url('Signifier-Extralight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Signifier';
+    src: url('Signifier-Light.woff2') format('woff2'),
+        url('Signifier-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+

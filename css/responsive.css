@@ -1,0 +1,29 @@
+@media (min-width: 1921px) {
+    .banner-img{
+        justify-content: start !important;
+    }
+}
+@media (min-width: 1600px) {
+.container {
+        max-width: 1584px !important;
+    }
+    .banner-img-box{
+        z-index: -2;
+    }
+        .business-section{
+            z-index: 0 !important;
+        }
+}
+@media (max-width: 1400px) {}
+
+@media (max-width: 1200px) {}
+
+@media (max-width: 992px) {}
+
+@media (max-width: 768px) {
+    header.scrolled {
+            padding: 28px 0 !important;
+        }
+}
+
+@media (max-width: 576px) {}

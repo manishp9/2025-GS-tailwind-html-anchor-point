@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+@import "../fonts/font-style.css";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "DM Sans", sans-serif;
+    color: #000;
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+ul,
+li,
+ol {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+button,
+a {
+    cursor: pointer;
+}
+
+input:focus,
+input:focus-visible,
+input:focus-within,
+button:focus,
+button:focus-visible,
+button:focus-within,
+textarea:focus,
+textarea:focus-visible,
+textarea:focus-within {
+    outline: unset;
+    box-shadow: unset;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.font-2 {
+    font-family: "Signifier", sans-serif;
+}
+
+.container {
+    margin:0 auto;
+    padding: 0 20px;
+}
+
+header.scrolled{
+    background-color: #F7FBF7;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+}
+/* header.scrolled .header-logo{
+margin: 0 auto;
+} */
+/*  STYLING START */
+/*  STYLING FINISHED */
